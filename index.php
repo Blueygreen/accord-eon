@@ -3,8 +3,9 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="robots" content="noindex, nofollow, noarchive" />
-	<title>Title for master branch</title>
-	
+
+	<title>Title on new branch</title>
+
 	<link rel="stylesheet" href="styles.css" media="screen, projection" />
 	
 	<script src="js/jquery-1.7.1.min.js"></script>
