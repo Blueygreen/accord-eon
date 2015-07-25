@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="robots" content="noindex, nofollow, noarchive" />
-	<title>Test</title>
+	<title>Title on new branch</title>
 	
 	<link rel="stylesheet" href="styles.css" media="screen, projection" />
 	
